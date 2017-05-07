@@ -8,7 +8,7 @@ Package.describe({
 Npm.depends({
   "cookies": "0.7.0",
   "http-proxy": "1.16.2",
-  "portscanner": "1.0.0",
+  "portscanner": "2.1.1",
   "mongodb": "2.2.22"
 });
 
